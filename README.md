@@ -1,4 +1,4 @@
-# Non-Binary Bottom-up Shift-reduce Constituent Parser
+# Non-Binary Bottom-up Shift-Reduce Constituent Parser
 This repository includes the code of the non-binary bottom-up parser trained with a dynamic oracle described in the paper [Faster Shift-Reduce Constituent Parsing with a Non-Binary, Bottom-up Strategy](http://doi.org/10.1007/s10462-017-9584-0) published in [Artificial Intelligence](https://www.sciencedirect.com/journal/artificial-intelligence) . The implementation is based on this framework (https://github.com/LeonCrashCode/InOrderParser) and reuses part of its code, including data preparation and evaluating scripts.
 
 This implementation requires the [cnn library](https://github.com/clab/cnn-v1) and you can find pretrained word embeddings for English and Chinese in https://github.com/LeonCrashCode/InOrderParser. 
