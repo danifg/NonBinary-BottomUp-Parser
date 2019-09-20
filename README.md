@@ -48,3 +48,6 @@ For more information, please visit https://github.com/LeonCrashCode/InOrderParse
 		keywords = "Automata, Natural language processing, Computational linguistics, Parsing, Constituent parsing"
 	}
 
+## Acknowledgments
+
+This work has received funding from the European Research Council (ERC), under the European Union's Horizon 2020 research and innovation programme (FASTPARSE, grant agreement No 714150), from MINECO (FFI2014-51978-C2-2-R, TIN2017-85160-C2-1-R) and from Xunta de Galicia (ED431B 2017/01).
